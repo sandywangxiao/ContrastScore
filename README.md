@@ -1,4 +1,4 @@
-# ContraScore
+# ContrastScore
 
 This is the Source Code of Paper: [ContrastScore: Towards Higher Quality, Less Biased, More Efficient Evaluation Metrics with Contrastive Evaluation](https://arxiv.org/abs/2504.02106).
 
