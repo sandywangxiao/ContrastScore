@@ -70,14 +70,14 @@ scores = compute_conditional_score(
 )
 ```
 
-### Additional Features
+## Additional Features
 
 - Handles empty strings in both prompts and targets
 - Automatically processes long sequences (truncated to max_length)
 - Supports both CPU and CUDA devices
 - Configurable batch sizes for efficient processing
 
-### Bib
+## Bib
 Please cite our work if you find it useful.
 ```
 @article{wang2025contrastscore,
